@@ -1,5 +1,6 @@
 package org.jakubplayground.arraysandstrings;
 
+
 public class ClosestNumber {
     public int findClosestNumber(int[] nums) {
         int closestNumber = nums[0];
