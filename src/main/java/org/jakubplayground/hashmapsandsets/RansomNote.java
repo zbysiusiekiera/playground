@@ -2,6 +2,9 @@ package org.jakubplayground.hashmapsandsets;
 
 import java.util.HashMap;
 
+/**
+ * 383. Ransom Note
+ */
 public class RansomNote {
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character, Integer> magazineCharacters = new HashMap<>();
