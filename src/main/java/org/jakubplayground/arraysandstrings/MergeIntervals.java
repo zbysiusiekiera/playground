@@ -6,6 +6,9 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Stream;
 
+/**
+ * 56. Merge Intervals
+ */
 public class MergeIntervals {
     private static record Interval(int start, int end) {
     }

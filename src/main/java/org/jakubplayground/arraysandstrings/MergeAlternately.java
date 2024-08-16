@@ -1,5 +1,8 @@
 package org.jakubplayground.arraysandstrings;
 
+/**
+ * 1768. Merge Strings Alternately
+ */
 public class MergeAlternately {
     public String mergeAlternately(String word1, String word2) {
         final var mergedWords = new StringBuilder();

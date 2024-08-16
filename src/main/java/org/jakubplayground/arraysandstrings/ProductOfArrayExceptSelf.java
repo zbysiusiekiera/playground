@@ -1,5 +1,8 @@
 package org.jakubplayground.arraysandstrings;
 
+/**
+ * 238. Product of Array Except Self
+ */
 public class ProductOfArrayExceptSelf {
 
     public int[] productExceptSelf(int[] nums) {

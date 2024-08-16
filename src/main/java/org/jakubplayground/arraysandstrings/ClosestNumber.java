@@ -1,6 +1,8 @@
 package org.jakubplayground.arraysandstrings;
 
-
+/**
+ * 2239. Find Closest Number to Zero
+ */
 public class ClosestNumber {
     public int findClosestNumber(int[] nums) {
         int closestNumber = nums[0];

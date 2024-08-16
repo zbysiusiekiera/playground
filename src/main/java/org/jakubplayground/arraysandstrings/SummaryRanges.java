@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * 228. Summary Ranges
+ */
 public class SummaryRanges {
     private static class Range {
         public int start;

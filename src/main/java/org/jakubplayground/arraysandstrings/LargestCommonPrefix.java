@@ -1,5 +1,8 @@
 package org.jakubplayground.arraysandstrings;
 
+/**
+ * 14. Longest Common Prefix
+ */
 public class LargestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         StringBuilder result = new StringBuilder();

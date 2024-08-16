@@ -1,5 +1,8 @@
 package org.jakubplayground.arraysandstrings;
 
+/**
+ * 13. Roman to Integer
+ */
 public class RomanToInt {
     public int romanToInt(String s) {
         char[] romanDigits = s.toCharArray();

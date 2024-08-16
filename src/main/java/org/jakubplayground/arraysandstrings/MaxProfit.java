@@ -1,5 +1,8 @@
 package org.jakubplayground.arraysandstrings;
 
+/**
+ * 121. Best Time to Buy and Sell Stock
+ */
 public class MaxProfit {
     public int maxProfit(int[] prices) {
         if (prices.length < 2) {

@@ -1,5 +1,8 @@
 package org.jakubplayground.arraysandstrings;
 
+/**
+ * 392. Is Subsequence
+ */
 public class IsSubsequence {
     public boolean isSubsequence(String s, String t) {
 
